@@ -62,7 +62,9 @@ We explored several models.
 2. Collaborative filtering models
      - Memory Based: K-Nearest Neighbor (KNN)
      - Model Based: Singular Value Decomposition (SVD)
-       
+
+For the final recommendation model, we used Singular Value Decomposition (SVD). It performed on par with KNN with low RMSE scores (0.8933). The benefits for the SVD model is the scalability with big data and the matrix factorization. We can capture more meta data to be utilized in the SVD model going forward to better improve the performance of our recommendations.
+
 # Conclusion:
 In our effort to build a movie reccomendation system, we tested various approaches such as Item-item correlation, Content-Based Filtering using KNN, and a Model-based using SVD. Each approach had its own pros and cons.
 
