@@ -5,15 +5,15 @@
 # Index
 
 * [Overview](#Overview)
-* [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-* [Churn Classification Model](#Collaborative-Filtering)
+* [Exploratory Data Analysis](#Visualizations)
+* [Collborative Filtering Model Model](#Modeling)
 * [Next Steps](#Next-Steps)
 * [Repository Structure](#Repository-Structure)
 
 # Important Links
 
-* [Slideshow Presentation](https://github.com/kai-cansler/phase-3-final-customer-churn/blob/main/presentation.pdf)
-* [Jupyter Notebook](https://github.com/kai-cansler/phase-3-final-customer-churn/blob/main/notebook.ipynb)
+* [Slideshow Presentation](https://github.com/kai-cansler/phase-4-final-movie-rec/blob/main/presentation.pdf)
+* [Jupyter Notebook](https://github.com/kai-cansler/phase-4-final-movie-rec/blob/main/notebook.ipynb)
 
 # Overview
 
