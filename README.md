@@ -49,6 +49,8 @@ We got the data from ml-latest-small from https://grouplens.org/datasets/moviele
 
 # Visualizations
 
+We learned alot about our users and movies. On average movie ratings are scored higher than 3-stars telling us that most viewers consistently enjoy the movies on a baseline. Comedy, Drama, and Action are the most made movies. Sci-Fi shows a big importance to our users based on our Bag of Words. These movies are rated often showing that they get alot of attention from viewers. 
+
 ![distribution of ratings](./images/dist_ratings.png)
 
 ![word cloud](./images/word_cloud.png)
